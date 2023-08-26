@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.logo img {
+    margin: 5px 10px;
+    width: 30px;
+}
+
+.toolbar-item button {
+    padding: 8px 16px !important;
+    margin: 8px 10px !important;
+    color: white !important;
+    border: 2px solid white !important;
+    border-radius: 15px !important;
+    cursor: pointer !important;
+}
+
+.badge-base {
+    margin: 2px;
+    margin-left: 75vw;
+    width: 20%;
+}
